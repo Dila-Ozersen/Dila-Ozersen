@@ -1,6 +1,6 @@
 # Hi, I'm Dila Ozersen
 
-I'm a UMass Amherst graduate seeking an entry-level software engineering role, with a particular interest in frontend and web development. I earned a degree in May 2026 with majors in Computer Science and Japanese Language and Literature.
+I'm a UMass Amherst graduate seeking an entry-level software engineering role, with a particular interest in frontend and web development. I earned a bachelors degree in May 2026 with majors in Computer Science and Japanese Language and Literature.
 
 I enjoy building interfaces, connecting frontend and backend functionality, and tracing problems from user inputs to stored data.
 
