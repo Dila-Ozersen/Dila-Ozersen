@@ -20,7 +20,7 @@ A five-person Fall 2024 UMass Amherst Software Engineering project for managing 
 
 **Team technologies:** JavaScript, React, MongoDB, Tailwind CSS, HTML, and CSS. Final race-time display remained faulty; current runtime availability has not been checked. The original shared repository retains the team's credits and my earlier contribution identity.
 
-### [Card Score Calculator](https://github.com/DilaOzersen/card-score-calculator)
+### [Card Score Calculator](https://github.com/Dila-Ozersen/card-score-calculator)
 
 An independently programmed Summer 2024 Web Programming class project using data from Love Live! School Idol Festival All Stars.
 
