@@ -10,7 +10,7 @@ My strongest current tools include **Python, JavaScript, HTML, CSS, React, Node.
 
 ## Selected projects
 
-### [flotE — Sailboat Racing Web Application](https://github.com/CS320-Group-1/CS320-Group1)
+### [flotE — Sailboat Racing Web Application](https://github.com/Dila-Ozersen/flotE)
 
 A five-person Fall 2024 UMass Amherst Software Engineering project for managing boat races, fleets, and timing.
 
