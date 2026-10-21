@@ -1,6 +1,6 @@
 # Hi, I'm Dila Ozersen
 
-I'm a UMass Amherst graduate seeking an entry-level software engineering role, with a particular interest in frontend and web development. I earned a bachelors degree in May 2026 with majors in Computer Science and Japanese Language and Literature.
+I'm a UMass Amherst graduate seeking an entry-level software engineering role, with a particular interest in frontend and web development. I earned a bachelor's degree in May 2026 with majors in Computer Science and Japanese Language and Literature.
 
 I enjoy building interfaces, connecting frontend and backend functionality, and tracing problems from user inputs to stored data.
 
@@ -46,4 +46,4 @@ The public source currently contains a React/TypeScript/Vite frontend with landi
 
 [LinkedIn](https://www.linkedin.com/in/dila-ozersen-b50a88326/)
 
-Some earlier coursework is hosted outside this account. The direct project links above lead to the original source and preserve team attribution.
+Some earlier coursework is hosted outside this account. The flotE and Card Score Calculator links above point to portfolio copies with original history and team attribution preserved.
